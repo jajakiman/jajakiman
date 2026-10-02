@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title description">
+  <title id="title">Zaky Ryan, full-stack web developer</title>
+  <desc id="description">A dark command-line dossier header for GitHub user jajakiman with the signature detail is everything.</desc>
+
+  <rect width="900" height="260" fill="#0D1117"/>
+  <path d="M1 28 28 1h844l27 27v204l-27 27H28L1 232Z" fill="none" stroke="#39C5CF" stroke-width="2"/>
+  <path d="M28 1h112M760 1h112M1 28v50M899 28v50M1 182v50M899 182v50M28 259h112M760 259h112" stroke="#9B7BFF" stroke-width="3"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="44" y="48" fill="#39C5CF" font-size="16" letter-spacing="2">PROFILE://JAJAKIMAN</text>
+    <text x="856" y="48" fill="#B7C0CC" font-size="14" text-anchor="end">STATUS  ONLINE</text>
+
+    <path d="M44 68h812" stroke="#253041" stroke-width="1"/>
+
+    <text x="44" y="112" fill="#B7C0CC" font-size="18">$ identity --resolve</text>
+    <text x="44" y="170" fill="#F0F6FC" font-size="54" font-weight="700" letter-spacing="3">ZAKY</text>
+    <text x="214" y="170" fill="#9B7BFF" font-size="54" font-weight="700" letter-spacing="3">RYAN</text>
+
+    <text x="48" y="207" fill="#39C5CF" font-size="18">FULL-STACK WEB DEVELOPER</text>
+    <text x="856" y="207" fill="#B7C0CC" font-size="16" text-anchor="end">INDONESIA</text>
+
+    <path d="M44 224h812" stroke="#253041" stroke-width="1"/>
+    <text x="44" y="246" fill="#B7C0CC" font-size="14">detail is everything</text>
+    <text x="856" y="246" fill="#39C5CF" font-size="14" text-anchor="end">[BUILD / REFINE / SHIP]</text>
+  </g>
+</svg>
