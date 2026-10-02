@@ -1,5 +1,5 @@
 # About Me:
-I am an Information Systems student at Telkom University with experience in full-stack development, software quality assurance, and infrastructure security. I build web applications while paying close attention to testing, reliability, and application security. My background includes working as a Quality Assurance Intern, assisting Information System Security and Operating Systems practicums, contributing to marketing activities, and competing in university esports. These experiences have shaped how I collaborate, solve problems, and approach software from development to delivery. My principle is simple: detail is everything.
+I am an Information Systems student at Telkom University with experience in full-stack development, software quality assurance, and infrastructure security. I build web applications while paying close attention to testing, reliability, and application security. My background includes working as a Quality Assurance Intern, assisting Information System Security and Operating Systems practicums, contributing to marketing activities, and competing in university esports. These experiences have shaped how I collaborate, solve problems, and approach software from development to delivery.
 
 
 ## 🌐 Socials:
